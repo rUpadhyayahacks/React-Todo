@@ -1,0 +1,8 @@
+* {
+
+    text-align: center;
+}
+.item-completed {
+    background-color: blue;
+    text-decoration: line-through;
+}
