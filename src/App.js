@@ -4,7 +4,7 @@ import TodoForm from './components/TodoComponents/TodoForm'
 import './Todo.css';
 
 
-
+// initial state
 const todos = [{
   task: "Make Coffee",
   id: 123,
